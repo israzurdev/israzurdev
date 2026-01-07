@@ -32,11 +32,9 @@
   </a> 
 </div> 
 
-## 📊 GitHub Stats:
+## 🏆 Achievements:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israzurdev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-streak-stats.demolab.com/?user=israzurdev&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=israzurdev&theme=git_dark&column=7&no-frame=true&no-bg=true&margin-w=15" width="100%" />
 </div>
 
 ---
