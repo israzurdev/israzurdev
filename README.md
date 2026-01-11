@@ -7,8 +7,7 @@
 </div>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **Full Stack Apps & Secure Code.**
-- 🌱 I’m currently learning **Microservices, Spring Boot & DevSecOps.**
+- 🌱 I’m currently learning **Full Stack Apps & Secure Code.**
 - 🎓 Studying **DAM + DAW** (Double Degree).
 - 💬 Ask me about **Java, Python, React & Cybersecurity.**
 - ⚡ Fun fact **I know how to break code, so I know how to fix it.**
