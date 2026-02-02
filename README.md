@@ -1,48 +1,78 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=23D18B&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Israel+Zurita!;Full+Stack+Dev+Student+(DAM%2BDAW);Security+%26+Code+Enthusiast" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" width="100%" style="border-radius: 10px;" alt="Banner Cyber"/>
+  <img src="https://ruta-a-tu-imagen-banner.png" width="100%" alt="Banner Python Django Security" />
+  
+  <br />
+  
+  <h1 align="center">Hi there, I'm Israel! 👋</h1>
+  
+  <h3 align="center">
+    Junior Python Developer 🐍 | Backend & Cybersecurity Enthusiast 🔐
+  </h3>
+  
+  <p align="center">
+    <i>Transforming secure infrastructure knowledge into robust backend code.</i>
+  </p>
+  
+  <a href="https://www.linkedin.com/in/israelzurita/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu-email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </div>
 
-## 💫 About Me:
-- 🌱 I’m currently learning **Full Stack Apps & Secure Code.**
-- 🎓 Studying **DAM + DAW** (Double Degree).
-- 💬 Ask me about **Java, Python, React & Cybersecurity.**
-- ⚡ Fun fact **I know how to break code, so I know how to fix it.**
+<hr />
 
-## 🌐 Socials:
-<div align="left">
-  <a href="https://linkedin.com/in/israelzurita" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  
-  <a href="mailto:israelzuritadev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  
-  </div>
+### 🚀 About Me
 
-## 💻 Tech Stack:
-<div align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,react,ts,js,html,css,linux,github,vscode,idea&theme=dark" />
-  </a> 
-</div> 
+I am a software developer with a unique background: I started in **Cybersecurity & Systems Administration (ASIR)** before diving deep into **Software Development (DAM + DAW)**. 
 
-## 🏆 Achievements:
+This hybrid profile allows me to not just write code that works, but to build systems that are **secure, scalable, and efficient** by design.
+
+* 🔭 I’m currently working on: **Refactoring legacy APIs to Django & DRF**.
+* 🌱 I’m currently learning: **Advanced Django Patterns & Microservices**.
+* 🛡️ Core value: **"Secure by design, clean by default."**
+* ⚡ Fun fact: I can configure your Linux server firewall and then code the API that runs behind it.
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=israzurdev&theme=git_dark&column=7&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+
+| **Backend & Core** | **Frameworks** | **DevOps & Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,java" /> | <img src="https://skillicons.dev/icons?i=django,fastapi,spring" /> | <img src="https://skillicons.dev/icons?i=docker,linux,git,bash" /> |
+| **Databases** | **Frontend (Auxiliary)** | **IDE** |
+| <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /> | <img src="https://skillicons.dev/icons?i=react,astro,html,css" /> | <img src="https://skillicons.dev/icons?i=vscode,idea" /> |
+
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=israzurdev&icon=0&color=1)](https://visitcount.itsvg.in)
+
+### 🏆 Featured Projects
+
+#### 🧠 [QodeBoss - AI Coding Challenge Platform](https://github.com/israzurdev/QodeBoss)
+> *A Full Stack application that uses AI to generate unique coding challenges for developers.*
+* **Tech:** Python (FastAPI), OpenAI API, React, TailwindCSS.
+* **Key Features:** Secure authentication with Clerk, AI prompt engineering, Syntax highlighting, User quota management.
+
+#### 📝 [Task Manager API](https://github.com/israzurdev/Task-Manager-API)
+> *A robust RESTful API designed with scalability and documentation in mind.*
+* **Tech:** Python (FastAPI/Django), Swagger/OpenAPI, SQL.
+* **Key Features:** Complete CRUD, automated documentation, structured error handling, clean architecture.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  Show some ❤️ by starring some of the repositories!
+  <img src="https://github-readme-stats.vercel.app/api?username=israzurdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israzurdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
 </div>
 
+<br />
+
 <div align="center">
-  <a href="https://github.com/israzurdev?tab=repositories" title="Show Repositories">... See More</a>
+  <p>⭐️ From <b>Spain</b> to the World 🌍</p>
 </div>
