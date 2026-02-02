@@ -1,9 +1,4 @@
-<div align="center">
-  <img src="https://ruta-a-tu-imagen-banner.png" width="100%" alt="Banner Python Django Security" />
-  
-  <br />
-  
-  <h1 align="center">Hi there, I'm Israel! 👋</h1>
+   <h1 align="center">Hi there, I'm Israel! 👋</h1>
   
   <h3 align="center">
     Junior Python Developer 🐍 | Backend & Cybersecurity Enthusiast 🔐
