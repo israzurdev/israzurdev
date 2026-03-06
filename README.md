@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/israelzuritadeveloper">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-Madrid,_España-brightgreen?style=flat-square&logo=google-maps&logoColor=white" alt="Madrid, España" />
+  <img src="https://img.shields.io/badge/Ubicación-Andalucia,_España-brightgreen?style=flat-square&logo=google-maps&logoColor=white" alt="Andalucía, España" />
   <img src="https://img.shields.io/badge/Estado-Búsqueda_Activa-orange?style=flat-square" alt="Búsqueda Activa" />
 </div>
 
