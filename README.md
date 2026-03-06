@@ -1,73 +1,69 @@
-   <h1 align="center">Hi there, I'm Israel! 👋</h1>
-  
-  <h3 align="center">
-    Junior Python Developer 🐍 | Backend & Cybersecurity Enthusiast 🔐
-  </h3>
-  
-  <p align="center">
-    <i>Transforming secure infrastructure knowledge into robust backend code.</i>
-  </p>
-  
-  <a href="https://www.linkedin.com/in/israelzurita/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:israelzuritadev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</div>
-
-<hr />
-
-### 🚀 About Me
-
-I am a software developer with a unique background: I started in **Cybersecurity & Systems Administration (ASIR)** before diving deep into **Software Development (DAM + DAW)**. 
-
-This hybrid profile allows me to not just write code that works, but to build systems that are **secure, scalable, and efficient** by design.
-
-* 🔭 I’m currently working on: **Refactoring legacy APIs to Django & DRF**.
-* 🌱 I’m currently learning: **Advanced Django Patterns & Microservices**.
-* 🛡️ Core value: **"Secure by design, clean by default."**
-* ⚡ Fun fact: I can configure your Linux server firewall and then code the API that runs behind it.
-
----
-
-### 🛠️ Tech Stack
-
 <div align="center">
+  <h1>¡Hola! Soy Israel Zurita 👋</h1>
+  <h3>Junior Backend Developer | Perfil Híbrido: Desarrollo (DAM/DAW) + Sistemas (ASIR)</h3>
+  
+  <p>Enfocado en crear código limpio, escalable y en entender la infraestructura que lo sostiene.</p>
 
-| **Backend & Core** | **Frameworks** | **DevOps & Tools** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python,java" /> | <img src="https://skillicons.dev/icons?i=django,fastapi,spring" /> | <img src="https://skillicons.dev/icons?i=docker,linux,git,bash" /> |
-| **Databases** | **Frontend (Auxiliary)** | **IDE** |
-| <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /> | <img src="https://skillicons.dev/icons?i=react,astro,html,css" /> | <img src="https://skillicons.dev/icons?i=vscode,idea" /> |
-
-</div>
-
----
-
-### 🏆 Featured Projects
-
-#### 🧠 [QodeBoss - AI Coding Challenge Platform](https://github.com/israzurdev/QodeBoss)
-> *A Full Stack application that uses AI to generate unique coding challenges for developers.*
-* **Tech:** Python (FastAPI), OpenAI API, React, TailwindCSS.
-* **Key Features:** Secure authentication with Clerk, AI prompt engineering, Syntax highlighting, User quota management.
-
-#### 📝 [Task Manager API](https://github.com/israzurdev/Task-Manager-API)
-> *A robust RESTful API designed with scalability and documentation in mind.*
-* **Tech:** Python (FastAPI/Django), Swagger/OpenAPI, SQL.
-* **Key Features:** Complete CRUD, automated documentation, structured error handling, clean architecture.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=israzurdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israzurdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+  <a href="https://linkedin.com/in/israelzuritadeveloper">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Ubicación-Madrid,_España-brightgreen?style=flat-square&logo=google-maps&logoColor=white" alt="Madrid, España" />
+  <img src="https://img.shields.io/badge/Estado-Búsqueda_Activa-orange?style=flat-square" alt="Búsqueda Activa" />
 </div>
 
 <br />
 
+## 👨‍💻 Sobre Mí
+
+Combino la lógica del **Desarrollo Backend (DAM/DAW)** con el conocimiento técnico de la **Administración de Sistemas (ASIR)**. Esta visión híbrida me permite no solo "picar código", sino entender el ciclo de vida completo del software, optimizando despliegues y garantizando la robustez de la infraestructura.
+
+### ¿Por qué mi perfil es diferente?
+* 🚀 **Desarrollo con visión de Sistemas:** Diseño APIs REST robustas (Java/Spring Boot, Python/Django/FastAPI) pensando en su ejecución eficiente en entornos Linux/Docker.
+* 🐧 **Infrastructure as Code (IaC):** Me apasiona automatizar despliegues y gestionar servidores. De hecho, mi último microservicio lo desarrollé y desplegué en mi propio clúster de **Raspberry Pi** con Linux.
+* 🧪 **Calidad y Testing:** Creo firmemente en las buenas prácticas y el Clean Code. Mis proyectos están respaldados por **tests unitarios puros con Mockito** inyectando Mocks para aislar la base de datos.
+* 🛡️ **Atención a la seguridad:** Mi background en ASIR me da una base sólida para aplicar principios de "seguridad desde el diseño".
+
+<br />
+
+## 🛠️ Habilidades Técnicas
+
 <div align="center">
-  <p>⭐️ From <b>Spain</b> to the World 🌍</p>
+  <p><strong>Desarrollo Backend</strong></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,fastapi" alt="Backend Skills" />
+  <br /><br />
+  <p><strong>Sistemas & Cloud/DevOps</strong></p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,githubactions" alt="Systems & Cloud Skills" />
+  <br /><br />
+  <p><strong>Bases de Datos & Herramientas</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,h2,git,postman,vscode" alt="Tools & DB Skills" />
 </div>
+
+<br />
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=israzurdev&langs_count=5&layout=compact&theme=visual_studio_dark&hide_border=true&title_color=00c853" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=israzurdev&show_icons=true&theme=visual_studio_dark&count_private=true&hide_border=true&title_color=00c853" alt="General Stats" />
+</div>
+
+<br />
+
+## 📩 ¡Conectemos!
+
+Estoy en búsqueda activa de mi primera oportunidad profesional como Junior Backend Developer o perfiles DevOps. Si buscas a alguien proactivo, que trastea por su cuenta (¡pregúntame por mi Raspberry Pi!) y que ama aprender, hablemos.
+
+<div align="center">
+  <a href="https://linkedin.com/in/israelzurita">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:israelzuritadev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+***
+
+<br />
